@@ -12,9 +12,6 @@ const config = getDefaultConfig({
   appName: 'RainbowKit demo',
   projectId: 'YOUR_PROJECT_ID',
   chains: [mainnet],
-  // transports: {
-  //   [mainnet.id]: http(),
-  // },
   ssr: true
 })
 
