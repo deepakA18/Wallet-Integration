@@ -1,6 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Wallet Integration using Rainbow-Kit
+
+Connect wallet functionality using rainbowkit!🌈
+
+## Preview
+
+![Screenshot](/rainbow-kit/public/connect_btn.png)
+
+![Screenshot](/rainbow-kit/public/connect_btn2.png)
 
 ## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/deepakA18/Wallet-Integration.git
+```
+Install the dependencies:
+
+```bash
+npm i
+# or
+yarn i
+# or
+pnpm i
+# or
+bun i
+```
 
 First, run the development server:
 
