@@ -125,8 +125,8 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ### Acknowledgments
 
-- [Reown Documentation](https://reown.io/docs)
-- [RainbowKit Documentation](https://rainbowkit.com/docs)
+- [Reown Documentation](https://docs.reown.com/)
+- [RainbowKit Documentation](https://www.rainbowkit.com/docs/introduction)
 
 Feel free to use and modify these examples to fit your project's needs. Happy coding!
 
